@@ -1,0 +1,472 @@
+{    
+    "node": {
+        "name": "Raspberry Pico W board"
+    },
+
+    "web_auth": {
+        "user": "pico",
+        "password": "pico"
+    },
+
+    "api_auth": {
+        "token": "pico-pico-pico-pico"
+    },
+
+    "wifi": {
+        "ssid": "",
+        "password": ""
+    },
+
+    "gp_states": {
+        "on": 1,
+        "off": 0
+    },
+
+    "pins" : {
+
+        "1": {
+            "text": "",
+
+            "modes": {
+                "GP0": {
+                    "state": "off"
+                },
+                "SPI0_RX": {},
+                "I2C0_SDA": {},
+                "UART0_TX": {}
+            },
+            "mode": ""
+        },
+
+        "2": {
+            "text": "",
+
+            "modes": {
+                "GP1": {
+                    "state": "off"
+                },
+                "SPI0_CSN": {},
+                "I2C0_SCL": {},
+                "UART0_RX": {}
+            },
+            "mode": ""
+        },
+
+        "3": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "4": {
+            "text": "",
+
+            "modes": {
+                "GP2": {
+                    "state": "off"
+                },
+                "SPI0_SCK": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "5": {
+            "text": "",
+
+            "modes": {
+                "GP3": {
+                    "state": "off"
+                },
+                "SPI0_TX": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "6": {
+            "text": "",
+
+            "modes": {
+                "GP4": {
+                    "state": "off"
+                },
+                "SPI0_RX": {},
+                "I2C0_SDA": {},
+                "UART1_TX": {}
+            },
+            "mode": ""
+        },
+
+        "7": {
+            "text": "",
+
+            "modes": {
+                "GP5": {
+                    "state": "off"
+                },
+                "SPI0_CSN": {},
+                "I2C0_SCL": {},
+                "UART1_RX": {}
+            },
+            "mode": ""
+        },
+
+        "8": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "9": {
+            "text": "",
+
+            "modes": {
+                "GP6": {
+                    "state": "off"
+                },
+                "SPI0_SCK": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "10": {
+            "text": "",
+
+            "modes": {
+                "GP7": {
+                    "state": "off"
+                },
+                "SPI0_TX": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "11": {
+            "text": "",
+
+            "modes": {
+                "GP8": {
+                    "state": "off"
+                },
+                "SPI1_RX": {},
+                "I2C0_SDA": {},
+                "UART1_TX": {}
+            },
+            "mode": ""
+        },
+
+        "12": {
+            "text": "",
+
+            "modes": {
+                "GP9": {
+                    "state": "off"
+                },
+                "SPI1_CSN": {},
+                "I2C0_SCL": {},
+                "UART1_RX": {}
+            },
+            "mode": ""
+        },
+
+        "13": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "14": {
+            "text": "",
+
+            "modes": {
+                "GP": {
+                    "state": "off"
+                },
+                "SPI1_SCK": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "15": {
+            "text": "",
+
+            "modes": {
+                "GP11": {
+                    "state": "off"
+                },
+                "SPI1_TX": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "16": {
+            "text": "",
+
+            "modes": {
+                "GP12": {
+                    "state": "off"
+                },
+                "SPI1_RX": {},
+                "I2C0_SDA": {},
+                "UART0_TX": {}
+            },
+            "mode": ""
+        },
+
+        "17": {
+            "text": "",
+
+            "modes": {
+                "GP13": {
+                    "state": "off"
+                },
+                "SPI1_CSN": {},
+                "I2C0_SCL": {},
+                "UART0_RX": {}
+            },
+            "mode": ""
+        },
+
+        "18": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "19": {
+            "text": "",
+
+            "modes": {
+                "GP14": {
+                    "state": "off"
+                },
+                "SPI1_SCK": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "20": {
+            "text": "",
+
+            "modes": {
+                "GP15": {
+                    "state": "off"
+                },
+                "SPI1_TX": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "21": {
+            "text": "",
+
+            "modes": {
+                "GP16": {
+                    "state": "off"
+                },
+                "SPI0_RX": {},
+                "I2C0_SDA": {},
+                "UART0_TX": {}
+            },
+            "mode": ""
+        },
+
+        "22": {
+            "text": "",
+
+            "modes": {
+                "GP17": {
+                    "state": "off"
+                },
+                "SPI0_CSN": {},
+                "I2C0_SCL": {},
+                "UART0_RX": {}
+            },
+            "mode": ""
+        },
+
+        "23": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "24": {
+            "text": "",
+
+            "modes": {
+                "GP18": {
+                    "state": "off"
+                },
+                "SPI0_SCK": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "25": {
+            "text": "Built in LED",
+
+            "modes": {
+                "GP19": {
+                    "state": "off"
+                },
+                "SPI0_TX": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "26": {
+            "text": "",
+
+            "modes": {
+                "GP20": {
+                    "state": "off"
+                },
+                "I2C0_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "27": {
+            "text": "",
+
+            "modes": {
+                "GP21": {
+                    "state": "off"
+                },
+                "I2C0_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "28": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "29": {
+            "text": "",
+
+            "modes": {
+                "GP22": {
+                    "state": "off"
+                }
+            },
+            "mode": ""
+        },
+
+        "30": {
+            "text": "",
+
+            "modes": {},
+            "mode": "RUN"
+        },
+
+        "31": {
+            "text": "",
+
+            "modes": {
+                "GP26": {
+                    "state": "off"
+                },
+                "ADC0": {},
+                "I2C1_SDA": {}
+            },
+            "mode": ""
+        },
+
+        "32": {
+            "text": "",
+
+            "modes": {
+                "GP27": {
+                    "state": "off"
+                },
+                "ADC1": {},
+                "I2C1_SCL": {}
+            },
+            "mode": ""
+        },
+
+        "33": {
+            "text": "",
+
+            "modes": {
+                "GND": {},
+                "AGND": {}
+            },
+            "mode": ""
+        },
+
+        "34": {
+            "text": "",
+
+            "modes": {
+                "GP28": {
+                    "state": "off"
+                },
+                "ADC2": {}
+            },
+            "mode": ""
+        },
+
+        "35": {
+            "text": "",
+
+            "modes": {},
+            "mode": "ADC_VREF"
+        },
+
+        "36": {
+            "text": "3V3 (OUT) (+3.3V)",
+
+            "modes": {},
+            "mode": "+"
+        },
+
+        "37": {
+            "text": "3V3_EN",
+
+            "modes": {},
+            "mode": "+"
+        },
+
+        "38": {
+            "text": "Gnd only",
+
+            "modes": {},
+            "mode": "GND"
+        },
+
+        "39": {
+            "text": "VSYS (IN) range(1.8V, 5.5V)",
+
+            "modes": {},
+            "mode": "+"
+        },
+
+        "40": {
+            "text": "VBUS (micro-USB input voltage) (+5V)",
+
+            "modes": {},
+            "mode": "+"
+        }
+    }
+
+}
