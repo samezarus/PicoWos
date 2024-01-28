@@ -57,8 +57,7 @@ def save_conf() -> bool:
 conf = load_conf()
 
 urls = {
-    '/b-led-on': None,
-    '/b-led-off': None
+    '/led': None
 }
 
 # Initialize variables
@@ -117,7 +116,10 @@ while True:
         request = str(request)
 
         try:
-            request = request.split()[1]
+            request = request.split()
+            print(request)
+
+            request = request[1]
             print('Request:', request)
         except IndexError as e:
             print(f'IndexError: {e}')
