@@ -31,6 +31,10 @@
                 "GP0": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_RX": {},
                 "I2C0_SDA": {},
                 "UART0_TX": {}
@@ -44,6 +48,10 @@
             "modes": {
                 "GP1": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_CSN": {},
                 "I2C0_SCL": {},
@@ -66,6 +74,10 @@
                 "GP2": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_SCK": {},
                 "I2C1_SDA": {}
             },
@@ -78,6 +90,10 @@
             "modes": {
                 "GP3": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_TX": {},
                 "I2C1_SCL": {}
@@ -92,6 +108,10 @@
                 "GP4": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_RX": {},
                 "I2C0_SDA": {},
                 "UART1_TX": {}
@@ -105,6 +125,10 @@
             "modes": {
                 "GP5": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_CSN": {},
                 "I2C0_SCL": {},
@@ -127,6 +151,10 @@
                 "GP6": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_SCK": {},
                 "I2C1_SDA": {}
             },
@@ -139,6 +167,10 @@
             "modes": {
                 "GP7": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_TX": {},
                 "I2C1_SCL": {}
@@ -153,6 +185,10 @@
                 "GP8": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI1_RX": {},
                 "I2C0_SDA": {},
                 "UART1_TX": {}
@@ -166,6 +202,10 @@
             "modes": {
                 "GP9": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI1_CSN": {},
                 "I2C0_SCL": {},
@@ -185,8 +225,12 @@
             "text": "",
 
             "modes": {
-                "GP": {
+                "GP10": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI1_SCK": {},
                 "I2C1_SDA": {}
@@ -201,6 +245,10 @@
                 "GP11": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI1_TX": {},
                 "I2C1_SCL": {}
             },
@@ -213,6 +261,10 @@
             "modes": {
                 "GP12": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI1_RX": {},
                 "I2C0_SDA": {},
@@ -227,6 +279,10 @@
             "modes": {
                 "GP13": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI1_CSN": {},
                 "I2C0_SCL": {},
@@ -249,6 +305,10 @@
                 "GP14": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI1_SCK": {},
                 "I2C1_SDA": {}
             },
@@ -261,6 +321,10 @@
             "modes": {
                 "GP15": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI1_TX": {},
                 "I2C1_SCL": {}
@@ -275,6 +339,10 @@
                 "GP16": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_RX": {},
                 "I2C0_SDA": {},
                 "UART0_TX": {}
@@ -288,6 +356,10 @@
             "modes": {
                 "GP17": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_CSN": {},
                 "I2C0_SCL": {},
@@ -310,6 +382,10 @@
                 "GP18": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "SPI0_SCK": {},
                 "I2C1_SDA": {}
             },
@@ -322,6 +398,10 @@
             "modes": {
                 "GP19": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "SPI0_TX": {},
                 "I2C1_SCL": {}
@@ -336,6 +416,10 @@
                 "GP20": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "I2C0_SDA": {}
             },
             "mode": ""
@@ -347,6 +431,10 @@
             "modes": {
                 "GP21": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "I2C0_SCL": {}
             },
@@ -366,6 +454,10 @@
             "modes": {
                 "GP22": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 }
             },
             "mode": ""
@@ -385,6 +477,10 @@
                 "GP26": {
                     "state": "off"
                 },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
+                },
                 "ADC0": {},
                 "I2C1_SDA": {}
             },
@@ -397,6 +493,10 @@
             "modes": {
                 "GP27": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "ADC1": {},
                 "I2C1_SCL": {}
@@ -420,6 +520,10 @@
             "modes": {
                 "GP28": {
                     "state": "off"
+                },
+                "PWM": {
+                    "freq": 0,
+                    "duty": 0
                 },
                 "ADC2": {}
             },
